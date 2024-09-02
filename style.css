@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+=======
+/*       {}         */
+
+>>>>>>> 4ae814bb0bb42cbd6aa2c7b296fff4bb35735236
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+<<<<<<< HEAD
+
+}
+
+.logo{
+width: 4%;
+height: 4%;
+
+=======
+}
+
+.logo{
+    height: 4rem;
+    width: 4rem;
+>>>>>>> 4ae814bb0bb42cbd6aa2c7b296fff4bb35735236
+}
+
+.card-img-top{
+    width: 100%;
+<<<<<<< HEAD
+    height: 600px;
+    object-fit: contain;
+
+}
+
+/* .admin_image{
+ width: 100px;
+ object-fit: contain;
+} */
+=======
+    height: 200px;
+    object-fit: contain;
+} 
+
+.admin_image{
+    width: 100px;
+    object-fit: contain;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+}
+>>>>>>> 4ae814bb0bb42cbd6aa2c7b296fff4bb35735236
